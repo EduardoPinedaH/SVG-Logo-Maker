@@ -32,3 +32,16 @@ THEN I am again presented with current and future conditions for that city
 https://github.com/EduardoPinedaH/SVG-Logo-Maker/assets/123011718/0de13deb-04f7-4a0f-86d0-7bf63cfa1b5a
 
 
+  <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" width="300" height="200">
+    <circle cx="50" cy="50" r="50" fill="black" />
+    <text
+      x="50%"
+      y="50%"
+      text-anchor="middle"
+      fill="white"
+      font-size="2.3rem" letter-spacing="2" dy=".3em"
+      font-family="monospace">EPH
+    </text>
+  </svg>
+  
+
