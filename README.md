@@ -19,10 +19,6 @@ WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 
 
-
-Uploading logo.svg - SVG-Logo-Maker - Visual Studio Code 2023-05-23 21-08-08.mp4…
-
+https://github.com/EduardoPinedaH/SVG-Logo-Maker/assets/123011718/0de13deb-04f7-4a0f-86d0-7bf63cfa1b5a
 
 
-### Deployed App
-<a href="https://eduardopinedah.github.io/Weather-App/"><img src="https://img.shields.io/badge/- See Live Site-success?style=for-the-badge"  alt="Live Site" /></a>
