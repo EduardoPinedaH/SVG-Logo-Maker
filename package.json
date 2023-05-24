@@ -12,16 +12,9 @@
     "test": "jest"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/CodeNameNoah/Custom-SVG-Logo-Generator.git"
+    "url": "https://github.com/EduardoPinedaH/SVG-Logo-Maker"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/CodeNameNoah/Custom-SVG-Logo-Generator/issues"
-  },
-  "homepage": "https://github.com/CodeNameNoah/Custom-SVG-Logo-Generator#readme",
+  "homepage": "https://github.com/EduardoPinedaH/SVG-Logo-Maker/blob/main/README.md",
   "dependencies": {
     "inquirer": "^8.2.4",
     "is-css3-color": "^1.0.0"
